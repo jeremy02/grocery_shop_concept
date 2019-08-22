@@ -9,7 +9,7 @@ The app was created to simulate all the system behind the inspiration video. The
 The GIF below shows the inspiration concept app.
 
 <p align="center">
-  <img height="300" src="https://github.com/jeremy02/grocery_shop_concept/blob/master/screenshot/inspiration.gif">
+  <img height="500" src="https://github.com/jeremy02/grocery_shop_concept/blob/master/screenshot/inspiration.gif">
 </p>
 
 ## Design Details
