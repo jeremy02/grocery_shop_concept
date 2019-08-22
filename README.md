@@ -7,7 +7,10 @@ The app was created to simulate all the system behind the inspiration video. The
 
 ## The Inspiration
 The GIF below shows the inspiration concept app.
-![alt text](screenshot/inspiration.gif)
+
+<p align="center">
+  <img height="300" src="https://github.com/jeremy02/grocery_shop_concept/blob/master/screenshot/inspiration.gif">
+</p>
 
 ## Design Details
 As exposed on the inspiration video, there's some small design details also present in this app. That is animation on product image, animation when added to cart, animation on scroll to list of all orders, gridview of product cut according with the radius border corner in the white container, in the screen about the product there's a white shadow near of "Add to cart" which apply a great effect. Plus: removing order from cart list moving to right or left.
